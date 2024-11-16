@@ -1,1 +1,2 @@
-pip install requests colorama
+requests
+colorama
